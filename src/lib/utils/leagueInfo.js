@@ -1,13 +1,13 @@
 /*   STEP 1   */
-export const leagueID = "670111313229312000"; // your league ID
-export const leagueName = "The Sunday Funday Fantasy Football League"; // your league name
+export const leagueID = "650807430179041280"; // your league ID
+export const leagueName = "The Game of Throws Dynasty Fantasy Football League"; // your league name
 export const dues = 60; // (optional) used in template constitution page
-export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2012, The Sunday Funday League was born out of the Univerity of Missouri. A group of friends came together to battle each year for the Sunday Funday Cup and avoid the toilet bowl punishment</p>
+  <p>Founded in 2019, The Game of Throws Dynasty League was born out of a group of strangers who came together to battle each year for the Iron Throne!</p>
   
 
 `;
